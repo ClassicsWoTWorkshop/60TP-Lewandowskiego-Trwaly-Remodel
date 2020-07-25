@@ -4,4 +4,4 @@ Since the .wotmod size for this mod is greater than 100 mb (which is not support
 To install, drag the .wotmod file included in the aforementioned .zip file to <Your WoT Directory\mods\<Game Version>. 
 
 > (Example: `C:\Games\World_of_Tanks\mods\1.9.1.2`)
-### [DOWNLOAD HERE](https://github.com/ClassicsWoTWorkshop/60TP-Lewandowskiego-Trwaly-Remodel/raw/master/ClassicsWoTWorkshop-60TP-Lewandowskiego-Trwaly-Remodel-v1.0.0-%5B1.9.1.2%5D.zip
+### [DOWNLOAD HERE](https://github.com/ClassicsWoTWorkshop/60TP-Lewandowskiego-Trwaly-Remodel/raw/master/ClassicsWoTWorkshop-60TP-Lewandowskiego-Trwaly-Remodel-v1.0.0-%5B1.9.1.2%5D.zip)

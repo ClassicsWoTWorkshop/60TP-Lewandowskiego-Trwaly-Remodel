@@ -14,7 +14,7 @@ Thank you for downloading! To install:
 
 
 
-Included are two versions of the remodel – one with hull spades + custom muzzle brake, and one without.
+Included are two versions of the remodel – one with hull spades attached + custom muzzle brake, and one with hull spades removed + stock muzzle brake.
 
 
 

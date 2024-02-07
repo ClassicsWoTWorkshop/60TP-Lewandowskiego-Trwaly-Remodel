@@ -1,3 +1,11 @@
 
 *.psd
 *.zip
+*.visual_processed
+*.model
+*.vt
+*.primitives_processed
+*.xml
+*.dds
+README_old.txt
+NOTE - wgmods version uses single wotmod in zip.txt
